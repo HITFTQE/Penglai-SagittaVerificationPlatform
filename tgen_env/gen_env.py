@@ -1,4 +1,4 @@
-#!/sdata/tools/opensrc/spack/opt/spack/linux-centos7-sandybridge/gcc-11.2.0/python-3.8.12-yjwcae5nkvtg3ph5cu356f6dnegcm2k3/bin/python
+#!/usr/bin/python3
 # coding=utf-8
 
 import os, sys, time, re, random
